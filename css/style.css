@@ -13,8 +13,8 @@
 }
 
 button {
-    width:10vh;
-    height:10vh;
+    width:18vw;
+    height:18vw;
     font-family: 'GmarketSansBold';
     border-radius: 26px;
     background: #F6F6F6;
@@ -29,13 +29,15 @@ box-shadow:  20px 20px 40px #D5D5D5,
 h1 {
     font-family:'GmarketSansBold';
     text-align:center;
-    font-size:5.5vh;
+    text-size-adjust: 100%;
+    font-size:40px;
 }
 
 h4 {
     font-family:'GmarketSansMedium';
     text-align:center;
-    font-size:2.5vh;
+    text-size-adjust: 100%;
+    font-size:20px;
 }
 
 div
@@ -55,6 +57,7 @@ ul {
    width: 30vw;
   margin-left: auto;
   margin-right: auto;
+    text-size-adjust: 100%;
 }
 il {
   display: inline-block;
