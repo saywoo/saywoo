@@ -13,8 +13,8 @@
 }
 
 button {
-    width:18vw;
-    height:18vw;
+    width:100px;
+    height:100px;
     font-family: 'GmarketSansBold';
     border-radius: 26px;
     background: #F6F6F6;
@@ -23,6 +23,7 @@ box-shadow:  20px 20px 40px #D5D5D5,
     outline:none;
     border:none;
     display: inline-block;
+    text-size-adjust: 100%;
 }
 
 
@@ -54,19 +55,26 @@ button:focus {
 }
 
 ul {
+    
    width: 30vw;
   margin-left: auto;
   margin-right: auto;
     text-size-adjust: 100%;
+    list-style:none;
+    
 }
 il {
-  display: inline-block;
-float:left;
+    float:left;
+    text-size-adjust: 100%;
 }
 
 h3 {
+    vertical-align:bottom;
+    margin:10px;
     font-family:'GmarketSansMedium';
     text-align:center;
-    font-size:4.5vw;
+    font-size:16px;
     display: inline-block;
+    text-size-adjust: 100%;
 }
+
