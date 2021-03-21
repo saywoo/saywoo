@@ -1,0 +1,7 @@
+CSS 기초 정리
+
+글자 크기 -> font-size:12px;
+폰트 -> font-family: 폰트이름;
+색 -> color:red;
+폰트 크기 -> font-wight:bold, light;
+텍스트 정렬 -> text-align:left, center, right;
