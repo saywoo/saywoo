@@ -5,7 +5,8 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=saywoo)](https://solved.ac/saywoo)
 
 <codeforce>
-[![CodeForces Profile](https://cf.leed.at?id=saywoo)](https://codeforces.com/profile/saywoo)
+[![CodeForces Profile](https://cf.leed.at?id={saywoo})](https://codeforces.com/profile/{saywoo})
+
 
 
 
