@@ -1,4 +1,5 @@
 # saywoo
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={saywoo})](https://solved.ac/{saywoo})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=saywoo)](https://solved.ac/saywoo)
+
