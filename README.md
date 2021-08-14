@@ -3,8 +3,8 @@
 <h1 align="center">
   PS 공부중이에요
 </h1>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=saywoo)](https://solved.ac/saywoo)
+![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=saywoo)(https://solved.ac/saywoo)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saywoo&show_icons=true&theme={theme})](https://github.com/saywoo/github-readme-stats)
 
