@@ -3,6 +3,12 @@
 <h1 align="center">
   PS 공부중이에요
 </h1>
+
+<h3 align="center">
+  most using language
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<h3>
 ![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=saywoo)(https://solved.ac/saywoo)
 
@@ -10,8 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 
 
 
